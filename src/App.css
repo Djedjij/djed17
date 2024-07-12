@@ -4,6 +4,8 @@
 }
 
 .buttonForm {
+  position: absolute;
+  top: 50%;
   padding: 5px 20px;
   background-color: red;
   text-decoration: none;
@@ -31,6 +33,7 @@
   max-width: 500px;
   border: 2px solid grey;
   display: flex;
+  margin-bottom: 20px;
 }
 .formElement {
   margin-bottom: 20px;
